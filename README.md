@@ -1,5 +1,5 @@
 # Ferramentas de controle de versão
 # Mercurial
-# GiHub
+# Gi
 # Subversion
 # CVS
